@@ -50,11 +50,6 @@ a{
 width: 25vw;
 height: auto;
 margin:10px;
-opacity: 1;
-transition: all 0.5s ease-in-out;
-}
-.item img:hover{
-    opacity: 0.5;
 }
 .footer{
     font-size: 14px;
